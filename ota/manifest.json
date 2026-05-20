@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "url": "https://katsar.github.io/SafeSleep-ota/ota/firmware.bin",
-  "sha256": "ac32519753ef6ae4510ad76e979ffee601bfff4fc960145fa523f9c990808894",
+  "sha256": "d0d816224f31777530fcaff7e01f2ca5333107f5a3c833254543725bf076903a",
   "size": 1126576
 }
